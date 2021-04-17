@@ -1,3 +1,3 @@
 # CVtask
 creating CV using HTML &amp; CSS
-Page URL: 
+Page URL: https://aisha-mhassan.github.io/CVtask/
