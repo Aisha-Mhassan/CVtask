@@ -1,0 +1,35 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    background-color: rgb(252, 250, 250);
+    font-family: Verdana;
+    padding: 20px;
+}
+h1,h2,h4,h5{
+    font-family: Georgia;
+}
+h1{text-align: center;
+    padding: 10px;
+    margin:5px;
+    color: green;
+    
+}
+h2{
+    padding: 20px;
+    color: green;
+}
+h4 b{
+    color: green;
+}
+.class1{
+    text-align: right;
+}
+ul{
+    list-style-type: square;
+}
+@media screen and (max-width: 800px) {
+    .class1, .class2, .class3, .class4 {
+      width: 100%;
+    }
+}
